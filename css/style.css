@@ -148,7 +148,7 @@ button.home-btn.btn {
 
 h2.list-h2 {
     color: rgb(0, 0, 0);
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 700;
     line-height: 54px;
     letter-spacing: 0px;
@@ -182,9 +182,9 @@ p.list-p1 {
     height: 38px;
 }
 
-.list-p2 > h3{
+.list-p2 > h3 {
     color: rgb(0, 0, 0);
-    font-size: 26px;
+    font-size: 24px;
     font-weight: 700;
     line-height: 54px;
     letter-spacing: 0px;
@@ -218,7 +218,7 @@ button.black-btn{
 
 small.list-sm {
     color: rgba(0, 0, 0, 0.6);
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 500;
     line-height: 30px;
     letter-spacing: 0px;
@@ -235,8 +235,8 @@ small.list-sm {
     height: auto;
 }
 
-.list-sc > h3{
-    font-size: 46px;
+.list-sc > h3 {
+    font-size: 42px;
     color: #000000;
     letter-spacing: 1px;
     font-weight: 700;
