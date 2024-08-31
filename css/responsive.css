@@ -79,12 +79,12 @@
         font-size: 20px;
     }
 
-    small.list-sm {
+    p.list-sm {
         font-size: 10px;
         letter-spacing: 0px;
         word-spacing: 0px;
         padding: 0px;
-        line-height: inherit;
+        line-height: 18px;
         top: 0;
     }
 
@@ -180,6 +180,43 @@
     p.footer-c-context {
         font-size: 12px;
         line-height: 24px;
+    }
+}
+
+
+@media screen and (max-width: 360px){
+    .logo-image > a >  img {
+        width: 140px;
+        height: auto;
+    }
+
+    button.list-btn.btn {
+        padding: 12px 24px;
+    }
+
+    p.list-sm {
+        font-size: 8px;
+        line-height: 14px;
+        font-weight: 500;
+    }
+
+    .home-description > h1 {
+        font-size: 26px;
+    }
+}
+
+
+
+@media screen and (max-width: 400px){
+    .logo-image > a >  img {
+        width: 160px;
+        height: auto;
+    }
+
+    p.list-sm {
+        font-size: 9px;
+        line-height: 14px;
+        font-weight: 500;
     }
 }
 
