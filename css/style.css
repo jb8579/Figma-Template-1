@@ -59,8 +59,8 @@ a{
 
 .home-image > img {
     position: absolute;
-    width: 780px;
-    height: 500px;
+    width: fit-content;
+    height: auto;
     top: 50%;
     right: 0px;
     transform: translate(50px, -295px);
