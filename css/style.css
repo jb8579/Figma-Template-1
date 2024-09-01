@@ -59,11 +59,11 @@ a{
 
 .home-image > img {
     position: absolute;
-    width: fit-content;
+    width: 685px;
     height: auto;
     top: 50%;
     right: 0px;
-    transform: translate(50px, -295px);
+    transform: translate(50px, -278px);
 }
 
 .home-description{
