@@ -10,7 +10,7 @@ body{
 }
 
 .section-container{
-    width: 80%;
+    width: 82%;
     max-width: 1365px;
     margin: 0 auto;
 }
@@ -59,8 +59,8 @@ a{
 
 .home-image > img {
     position: absolute;
-    width: 735px;
-    height: 515px;
+    width: 780px;
+    height: 500px;
     top: 50%;
     right: 0px;
     transform: translate(50px, -295px);
