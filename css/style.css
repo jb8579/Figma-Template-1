@@ -10,7 +10,7 @@ body{
 }
 
 .section-container{
-    width: 82%;
+    width: 80%;
     max-width: 1165px;
     margin: 0 auto;
 }
@@ -27,6 +27,9 @@ a{
     text-decoration: none !important;
 }
 
+button{
+    cursor: pointer;
+}
 
 
 /* --------------------------------
@@ -347,7 +350,7 @@ p.footer-c-context {
 }
 
 .post-slide {
-    margin: 20px 15px 20px;
+    margin: 20px 10px 20px;
     padding-top: 1px;
     cursor: pointer;
 }
@@ -358,13 +361,13 @@ p.footer-c-context {
     margin: 0px;
 }
   
-.post-img img {
-    width: 255px;
+.post-img > a > img {
+    width: 250px;
     height: auto;
 }
 
 .over-layer {
-    width: 255px;
+    width: 250px;
     height: 41px;
     position: absolute;
     left: 0;
@@ -427,7 +430,7 @@ p.footer-c-context {
 .owl-theme .owl-controls .owl-page span {
     width: 12px !important;
     height: 12px !important;
-    background: #fff !important;
+    background: #bd7809 !important;
 }
 
 .owl-theme .owl-controls {
@@ -535,6 +538,36 @@ p.footer-c-context {
     line-height: 30px;
     letter-spacing: 0px;
 }
+
+h1.list-2-title{
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0px;
+    padding-bottom: 20px;
+}
 /* ----------------------------------
     Home Section-3 End
 ------------------------------------- */
+
+
+
+/* --------------------------------------
+    Game Section Start
+----------------------------------------- */
+.gaming-home {
+    padding: 30px 0px 40px 0px;
+}
+
+h1.game-title{
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0px;
+    padding-bottom: 30px;
+}
+/* --------------------------------------
+    Game Section End
+----------------------------------------- */
