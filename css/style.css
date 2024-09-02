@@ -444,3 +444,97 @@ p.footer-c-context {
 /* -------------------------------
     Home-2 Section End
 --------------------------------- */
+
+
+
+/* ---------------------------------
+    List Description Start
+---------------------------------- */
+.list-description {
+    margin-bottom: 90px;
+}
+
+.list-content > h2 {
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0px;
+    padding-bottom: 10px;
+}
+
+.list-content > h3{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0px;
+    padding-bottom: 10px;
+}
+
+.list-content > p{
+    font-size: 17px;
+    letter-spacing: 0.2px;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+    word-spacing: 1px;
+    padding-bottom: 16px;
+    line-height: 28px;
+}
+
+.list-content > ul{
+    padding: 0px 25px;
+}
+
+.list-content > ul > li{
+    font-size: 17px;
+    letter-spacing: 0.2px;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+    word-spacing: 1px;
+    padding-bottom: 16px;
+    line-height: 20px;
+}
+/* ---------------------------------
+    List Description End 
+----------------------------------- */
+
+
+
+/* ---------------------------------
+    Home Section-3 Start
+----------------------------------- */
+.home-section-3{
+    background-image: url('../images/banner.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 360px;
+    margin-bottom: 90px;
+}
+
+.home-description-3{
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.home-description-3 > h1{
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0px;
+    padding-bottom: 20px;
+}
+
+.home-description-3 > p{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+}
+/* ----------------------------------
+    Home Section-3 End
+------------------------------------- */
