@@ -255,18 +255,20 @@
     .list-content > h2 {
         font-size: 30px;
         padding-bottom: 10px;
+        line-height: normal;
+        font-weight: 600;
     }
 
     .list-content > p {
-        font-size: 15px;
-        letter-spacing: 0px;
-        padding-bottom: 16px;
-        line-height: 26px;
+        font-size: 14px;
+        padding-bottom: 15px;
+        line-height: 24px;
     }
 
     .list-content > h3 {
         font-size: 22px;
         line-height: normal;
+        font-weight: 600;
     }
 
     .list-description {
@@ -302,6 +304,11 @@
         font-size: 30px;
         line-height: normal;
         padding-bottom: 15px;
+    }
+
+    .list-content > ul > li {
+        font-size: 14px;
+        line-height: normal;
     }
 }
 
